@@ -14,3 +14,7 @@
 </div>
 
 ###
+
+<p align="left">Olá! Me chamo Lucas, tenho 19 anos e no momento estou estudando desenvolvimento web e me especializando em Front-End. Bem-vindo(a) ao meu perfil!</p>
+
+###
